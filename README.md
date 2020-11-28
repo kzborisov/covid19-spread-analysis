@@ -18,7 +18,7 @@ The project is created using Flask, sqlite3, folium, covid19_data, JavaScript, H
 
 ### Installing
 
-Get the project up and running locally in just 5 easy steps.
+Get the project up and running locally in just 4 easy steps.
 
 1. Create a personal [Fork](https://github.com/login?return_to=%2FBrianRuizy%2Fcovid19-dashboard) of this repository.
 
