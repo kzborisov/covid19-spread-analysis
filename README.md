@@ -20,20 +20,22 @@ The project is created using Flask, sqlite3, folium, covid19_data, JavaScript, H
 
 Get the project up and running locally in just 5 easy steps.
 
-1. **Clone** the fork with HTTPS, using your local terminal to a preferred location, and **cd** into the project.
+1. Create a personal [Fork](https://github.com/login?return_to=%2FBrianRuizy%2Fcovid19-dashboard) of this repository.
+
+2. **Clone** the fork with HTTPS, using your local terminal to a preferred location, and **cd** into the project.
 
 ```bash
-git clone #TODO 
-
+git clone https://github.com/<username>/covid19-spread-analysis.git 
+cd covid19-spread-analysis/
 ```
 
-2. Install dependencies
+3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run local server, and **DONE**!
+4. Run local server, and **DONE**!
 
 ```bash
 export FLASK_APP=application.py
